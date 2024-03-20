@@ -14,6 +14,20 @@ function App() {
     onexchtradevolumeeex: 0,
     tradedatetimegmt: new Date(),
   });
+  const [filterCloseValue, setFilterCloseValue] = useState(0);
+
+  const orderByCloseValueAscendant = () => {
+    items.sort((a, b) => a.close - b.close);
+    setItems([...items]);
+  };
+  const orderByCloseValueDescendant = () => {
+    items.sort((a, b) => b.close - a.close);
+    setItems([...items]);
+  };
+  const filterByCloseValue = () => {
+    const filteredItems = items.filter((item) => item.close > filterCloseValue);
+    setItems(filteredItems);
+  };
 
   /* items.forEach((item) => {
     item.tradedatetimegmt = new Date(item.tradedatetimegmt);
@@ -98,6 +112,21 @@ function App() {
         </LineChart>
       </div>
       <div>
+        <button onClick={orderByCloseValueAscendant}>
+          Order by close value ascendant
+        </button>
+        <button onClick={orderByCloseValueDescendant}>
+          Order by close value descendant
+        </button>
+        <label>
+          Filter by close value:
+          <input
+            type="number"
+            value={filterCloseValue}
+            onChange={(event) => setFilterCloseValue(event.target.value)}
+          />
+        </label>
+        <button onClick={filterByCloseValue}>Filter</button>
         <table>
           <thead>
             <tr>
