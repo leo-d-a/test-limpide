@@ -164,7 +164,6 @@ function App() {
           </thead>
           <tbody>
             {items.map((item, index) => (
-              //OnClick remove the line
               <tr key={index}>
                 <td>{item.close}</td>
                 <td>{item.offexchtradevolumeeex}</td>
