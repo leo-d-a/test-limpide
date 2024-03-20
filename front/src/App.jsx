@@ -6,8 +6,29 @@ import data from './data.json';
 
 import { LineChart, Line, CartesianGrid, XAxis, YAxis } from 'recharts';
 
+const parseDate = (dateString) => {
+  const [date, time] = dateString.split(' ');
+  const [month, day, year] = date.split('/');
+  const [hours, minutes, seconds] = time.split(':');
+  let newDate = new Date();
+  newDate.setFullYear(year);
+  newDate.setMonth(month);
+  newDate.setDate(day);
+  newDate.setHours(hours);
+  newDate.setMinutes(minutes);
+  newDate.setSeconds(seconds);
+  console.log(year, month, day, hours, minutes, seconds);
+  return newDate;
+};
+
 function App() {
-  const [items, setItems] = useState(data.results.items);
+  const [items, setItems] = useState(
+    data.results.items.map((item) => ({
+      ...item,
+      tradedatetimegmt: parseDate(item.tradedatetimegmt),
+    }))
+  );
+
   const [newItem, setNewItem] = useState({
     close: 0,
     offexchtradevolumeeex: 0,
@@ -27,6 +48,11 @@ function App() {
   const filterByCloseValue = () => {
     const filteredItems = items.filter((item) => item.close > filterCloseValue);
     setItems(filteredItems);
+  };
+
+  const orderByDate = () => {
+    items.sort((a, b) => a.tradedatetimegmt - b.tradedatetimegmt);
+    setItems([...items]);
   };
 
   /* items.forEach((item) => {
@@ -107,7 +133,10 @@ function App() {
             stroke="#8884d8"
           />
           <CartesianGrid stroke="#ccc" />
-          <XAxis dataKey="tradedatetimegmt" />
+          <XAxis
+            dataKey="tradedatetimegmt"
+            tickFormatter={(date) => date.toLocaleString()}
+          />
           <YAxis />
         </LineChart>
       </div>
@@ -118,6 +147,7 @@ function App() {
         <button onClick={orderByCloseValueDescendant}>
           Order by close value descendant
         </button>
+        <button onClick={orderByDate}>Order by date</button>
         <label>
           Filter by close value:
           <input
@@ -143,7 +173,7 @@ function App() {
                 <td>{item.close}</td>
                 <td>{item.offexchtradevolumeeex}</td>
                 <td>{item.onexchtradevolumeeex}</td>
-                <td>{item.tradedatetimegmt}</td>
+                <td>{item.tradedatetimegmt.toLocaleString()}</td>
                 <td>
                   <button
                     onClick={() => {
