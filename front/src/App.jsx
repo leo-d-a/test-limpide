@@ -109,11 +109,22 @@ function App() {
           </thead>
           <tbody>
             {items.map((item, index) => (
+              //OnClick remove the line
               <tr key={index}>
                 <td>{item.close}</td>
                 <td>{item.offexchtradevolumeeex}</td>
                 <td>{item.onexchtradevolumeeex}</td>
                 <td>{item.tradedatetimegmt}</td>
+                <td>
+                  <button
+                    onClick={() => {
+                      items.splice(index, 1);
+                      setItems([...items]);
+                    }}
+                  >
+                    Delete
+                  </button>
+                </td>
               </tr>
             ))}
           </tbody>
