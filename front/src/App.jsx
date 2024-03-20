@@ -35,6 +35,7 @@ function App() {
     onexchtradevolumeeex: 0,
     tradedatetimegmt: new Date(),
   });
+
   const [filterCloseValue, setFilterCloseValue] = useState(0);
 
   const orderByCloseValueAscendant = () => {
@@ -55,14 +56,9 @@ function App() {
     setItems([...items]);
   };
 
-  /* items.forEach((item) => {
-    item.tradedatetimegmt = new Date(item.tradedatetimegmt);
-  }); */
-
   return (
     <>
       <div>
-        //Create a form to add a new item
         <form>
           <label>
             Close:
