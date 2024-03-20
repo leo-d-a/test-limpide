@@ -1,0 +1,5984 @@
+{ "results": { "items": [
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"2/2/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"2/3/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"2/4/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"2/5/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"2/6/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"2/9/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"2/10/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"2/11/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"2/12/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"2/13/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"2/16/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"2/17/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"2/18/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"2/19/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"2/20/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"2/23/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"2/24/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"2/25/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"2/26/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"2/27/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"3/2/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"3/3/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"3/4/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"3/5/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"3/6/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"3/9/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"3/10/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"3/11/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"3/12/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"3/13/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"3/16/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"3/17/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"3/18/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"3/19/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"3/20/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"3/23/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"3/24/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"3/25/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"3/26/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"3/27/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"3/30/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"3/31/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"4/1/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"4/2/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"4/7/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"4/8/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"4/9/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"4/10/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"4/13/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"4/14/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"4/15/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"4/16/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"4/17/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"4/20/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"4/21/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"4/22/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"4/23/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"4/24/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"4/27/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"4/28/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"4/29/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"4/30/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"5/4/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"5/5/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"5/6/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"5/7/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"5/8/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"5/11/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"5/12/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"5/13/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"5/14/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"5/15/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"5/18/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"5/19/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"5/20/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"5/21/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"5/22/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"5/26/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"5/27/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"5/28/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"5/29/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"6/1/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"6/2/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"6/3/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"6/4/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"6/5/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"6/8/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"6/9/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"6/10/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"6/11/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"6/12/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"6/15/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"6/16/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"6/17/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"6/18/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"6/19/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"6/22/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"6/23/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"6/24/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"6/25/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"6/26/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"6/29/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"6/30/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"7/1/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"7/2/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"7/3/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"7/6/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"7/7/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"7/8/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"7/9/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"7/10/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"7/13/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"7/14/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"7/15/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"7/16/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"7/17/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"7/20/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"7/21/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"7/22/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"7/23/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"7/24/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"7/27/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"7/28/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"7/29/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"7/30/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"7/31/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"8/3/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"8/4/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"8/5/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"8/6/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"8/7/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"8/10/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"8/11/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"8/12/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"8/13/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"8/14/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"8/17/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"8/18/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"8/19/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"8/20/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"8/21/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"8/24/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"8/25/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"8/26/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"8/27/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"8/28/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"8/31/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"9/1/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"9/2/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"9/3/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"9/4/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"9/7/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"9/8/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"9/9/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"9/10/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"9/11/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"9/14/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"9/15/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"9/16/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"9/17/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"9/18/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"9/21/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"9/22/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"9/23/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"9/24/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"9/25/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"9/28/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"9/29/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"9/30/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"10/1/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"10/2/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"10/5/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"10/6/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"10/7/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"10/8/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"10/9/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"10/12/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"10/13/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"10/14/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"10/15/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"10/16/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"10/19/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"10/20/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"10/21/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"10/22/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"10/23/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"10/26/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"10/27/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"10/28/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"10/29/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"10/30/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"11/2/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"11/3/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"11/4/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"11/5/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"11/6/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"11/9/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"11/10/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"11/11/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"11/12/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"11/13/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"11/16/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"11/17/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"11/18/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"11/19/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"11/20/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"11/23/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"11/24/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"11/25/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"11/26/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"11/27/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"11/30/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"12/1/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"12/2/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"12/3/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"12/4/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"12/7/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"12/8/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"12/9/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"12/10/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"12/11/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"12/14/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"12/15/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"12/16/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"12/17/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"12/18/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"12/21/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"12/22/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"12/23/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"12/28/2015 12:00:00 PM"
+},
+{
+"close":null,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"12/29/2015 12:00:00 PM"
+},
+{
+"close":34.11,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"12/30/2015 12:00:00 PM"
+},
+{
+"close":33.9,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"1/4/2016 12:00:00 PM"
+},
+{
+"close":32.93,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"1/5/2016 12:00:00 PM"
+},
+{
+"close":32.43,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"1/6/2016 12:00:00 PM"
+},
+{
+"close":32.05,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"1/7/2016 12:00:00 PM"
+},
+{
+"close":31.37,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"1/8/2016 12:00:00 PM"
+},
+{
+"close":30.94,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"1/11/2016 12:00:00 PM"
+},
+{
+"close":30.58,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"1/12/2016 12:00:00 PM"
+},
+{
+"close":30.59,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"1/13/2016 12:00:00 PM"
+},
+{
+"close":30.16,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"1/14/2016 12:00:00 PM"
+},
+{
+"close":29.58,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"1/15/2016 12:00:00 PM"
+},
+{
+"close":29.12,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"1/18/2016 12:00:00 PM"
+},
+{
+"close":29.08,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"1/19/2016 12:00:00 PM"
+},
+{
+"close":28.7,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"1/20/2016 12:00:00 PM"
+},
+{
+"close":28.25,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"1/21/2016 12:00:00 PM"
+},
+{
+"close":28.52,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"1/22/2016 12:00:00 PM"
+},
+{
+"close":28.15,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"1/25/2016 12:00:00 PM"
+},
+{
+"close":28.25,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"1/26/2016 12:00:00 PM"
+},
+{
+"close":28.9,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"1/27/2016 12:00:00 PM"
+},
+{
+"close":29.46,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"1/28/2016 12:00:00 PM"
+},
+{
+"close":29.33,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"1/29/2016 12:00:00 PM"
+},
+{
+"close":28.75,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"2/1/2016 12:00:00 PM"
+},
+{
+"close":28.3,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"2/2/2016 12:00:00 PM"
+},
+{
+"close":28.76,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"2/3/2016 12:00:00 PM"
+},
+{
+"close":28.83,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"2/4/2016 12:00:00 PM"
+},
+{
+"close":27.97,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"2/5/2016 12:00:00 PM"
+},
+{
+"close":27.37,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"2/8/2016 12:00:00 PM"
+},
+{
+"close":26.93,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"2/9/2016 12:00:00 PM"
+},
+{
+"close":26.04,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"2/10/2016 12:00:00 PM"
+},
+{
+"close":25.64,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"2/11/2016 12:00:00 PM"
+},
+{
+"close":25.93,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"2/12/2016 12:00:00 PM"
+},
+{
+"close":26.15,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"2/15/2016 12:00:00 PM"
+},
+{
+"close":25.82,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"2/16/2016 12:00:00 PM"
+},
+{
+"close":25.65,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"2/17/2016 12:00:00 PM"
+},
+{
+"close":25.95,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"2/18/2016 12:00:00 PM"
+},
+{
+"close":25.75,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"2/19/2016 12:00:00 PM"
+},
+{
+"close":26,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"2/22/2016 12:00:00 PM"
+},
+{
+"close":25.81,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"2/23/2016 12:00:00 PM"
+},
+{
+"close":25,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"2/24/2016 12:00:00 PM"
+},
+{
+"close":25.08,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"2/25/2016 12:00:00 PM"
+},
+{
+"close":25.29,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"2/26/2016 12:00:00 PM"
+},
+{
+"close":25.46,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"2/29/2016 12:00:00 PM"
+},
+{
+"close":25.16,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"3/1/2016 12:00:00 PM"
+},
+{
+"close":25.31,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"3/2/2016 12:00:00 PM"
+},
+{
+"close":25.22,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"3/3/2016 12:00:00 PM"
+},
+{
+"close":25.5,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"3/4/2016 12:00:00 PM"
+},
+{
+"close":25.85,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"3/7/2016 12:00:00 PM"
+},
+{
+"close":26,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"3/8/2016 12:00:00 PM"
+},
+{
+"close":25.88,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"3/9/2016 12:00:00 PM"
+},
+{
+"close":25.65,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"3/10/2016 12:00:00 PM"
+},
+{
+"close":25.84,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"3/11/2016 12:00:00 PM"
+},
+{
+"close":25.64,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"3/14/2016 12:00:00 PM"
+},
+{
+"close":25.31,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"3/15/2016 12:00:00 PM"
+},
+{
+"close":25.73,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"3/16/2016 12:00:00 PM"
+},
+{
+"close":25.9,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"3/17/2016 12:00:00 PM"
+},
+{
+"close":25.94,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"3/18/2016 12:00:00 PM"
+},
+{
+"close":26,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"3/21/2016 12:00:00 PM"
+},
+{
+"close":25.94,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"3/22/2016 12:00:00 PM"
+},
+{
+"close":25.6,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"3/23/2016 12:00:00 PM"
+},
+{
+"close":26.1,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"3/24/2016 12:00:00 PM"
+},
+{
+"close":26.22,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"3/29/2016 12:00:00 PM"
+},
+{
+"close":26.43,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"3/30/2016 12:00:00 PM"
+},
+{
+"close":26.92,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"3/31/2016 12:00:00 PM"
+},
+{
+"close":27.41,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"4/1/2016 12:00:00 PM"
+},
+{
+"close":27.65,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"4/4/2016 12:00:00 PM"
+},
+{
+"close":27.63,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"4/5/2016 12:00:00 PM"
+},
+{
+"close":27.79,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"4/6/2016 12:00:00 PM"
+},
+{
+"close":27.68,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"4/7/2016 12:00:00 PM"
+},
+{
+"close":27.5,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"4/8/2016 12:00:00 PM"
+},
+{
+"close":28.03,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"4/11/2016 12:00:00 PM"
+},
+{
+"close":28.4,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"4/12/2016 12:00:00 PM"
+},
+{
+"close":28.29,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"4/13/2016 12:00:00 PM"
+},
+{
+"close":28.6,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"4/14/2016 12:00:00 PM"
+},
+{
+"close":29.15,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"4/15/2016 12:00:00 PM"
+},
+{
+"close":29.48,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"4/18/2016 12:00:00 PM"
+},
+{
+"close":29.52,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"4/19/2016 12:00:00 PM"
+},
+{
+"close":29.22,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"4/20/2016 12:00:00 PM"
+},
+{
+"close":29.68,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"4/21/2016 12:00:00 PM"
+},
+{
+"close":29.63,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"4/22/2016 12:00:00 PM"
+},
+{
+"close":29.98,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"4/25/2016 12:00:00 PM"
+},
+{
+"close":32.5,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"4/26/2016 12:00:00 PM"
+},
+{
+"close":32.88,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"4/27/2016 12:00:00 PM"
+},
+{
+"close":31.75,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"4/28/2016 12:00:00 PM"
+},
+{
+"close":31.88,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"4/29/2016 12:00:00 PM"
+},
+{
+"close":31.25,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"5/2/2016 12:00:00 PM"
+},
+{
+"close":31.21,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"5/3/2016 12:00:00 PM"
+},
+{
+"close":31.35,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"5/4/2016 12:00:00 PM"
+},
+{
+"close":31.64,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"5/5/2016 12:00:00 PM"
+},
+{
+"close":31.21,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"5/6/2016 12:00:00 PM"
+},
+{
+"close":31.28,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"5/9/2016 12:00:00 PM"
+},
+{
+"close":30.88,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"5/10/2016 12:00:00 PM"
+},
+{
+"close":30.8,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"5/11/2016 12:00:00 PM"
+},
+{
+"close":31.02,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"5/12/2016 12:00:00 PM"
+},
+{
+"close":30.37,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"5/13/2016 12:00:00 PM"
+},
+{
+"close":30.5,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"5/16/2016 12:00:00 PM"
+},
+{
+"close":31.26,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"5/17/2016 12:00:00 PM"
+},
+{
+"close":31.13,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"5/18/2016 12:00:00 PM"
+},
+{
+"close":31.29,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"5/19/2016 12:00:00 PM"
+},
+{
+"close":31.25,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"5/20/2016 12:00:00 PM"
+},
+{
+"close":31.01,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"5/23/2016 12:00:00 PM"
+},
+{
+"close":31.02,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"5/24/2016 12:00:00 PM"
+},
+{
+"close":31.25,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"5/25/2016 12:00:00 PM"
+},
+{
+"close":31.45,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"5/26/2016 12:00:00 PM"
+},
+{
+"close":31.3,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"5/27/2016 12:00:00 PM"
+},
+{
+"close":31.68,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"5/30/2016 12:00:00 PM"
+},
+{
+"close":32.22,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"5/31/2016 12:00:00 PM"
+},
+{
+"close":32.15,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"6/1/2016 12:00:00 PM"
+},
+{
+"close":32.51,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"6/2/2016 12:00:00 PM"
+},
+{
+"close":33.13,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"6/3/2016 12:00:00 PM"
+},
+{
+"close":34.33,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"6/6/2016 12:00:00 PM"
+},
+{
+"close":34.51,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"6/7/2016 12:00:00 PM"
+},
+{
+"close":34.23,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"6/8/2016 12:00:00 PM"
+},
+{
+"close":34.5,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"6/9/2016 12:00:00 PM"
+},
+{
+"close":33.91,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"6/10/2016 12:00:00 PM"
+},
+{
+"close":33.63,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"6/13/2016 12:00:00 PM"
+},
+{
+"close":33.46,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"6/14/2016 12:00:00 PM"
+},
+{
+"close":34,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"6/15/2016 12:00:00 PM"
+},
+{
+"close":33.63,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"6/16/2016 12:00:00 PM"
+},
+{
+"close":33.58,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"6/17/2016 12:00:00 PM"
+},
+{
+"close":34.55,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"6/20/2016 12:00:00 PM"
+},
+{
+"close":33.62,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"6/21/2016 12:00:00 PM"
+},
+{
+"close":34.3,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"6/22/2016 12:00:00 PM"
+},
+{
+"close":33.99,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"6/23/2016 12:00:00 PM"
+},
+{
+"close":33.43,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"6/24/2016 12:00:00 PM"
+},
+{
+"close":32.9,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"6/27/2016 12:00:00 PM"
+},
+{
+"close":33.08,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"6/28/2016 12:00:00 PM"
+},
+{
+"close":32.88,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"6/29/2016 12:00:00 PM"
+},
+{
+"close":33.08,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"6/30/2016 12:00:00 PM"
+},
+{
+"close":33.53,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"7/1/2016 12:00:00 PM"
+},
+{
+"close":34.63,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"7/4/2016 12:00:00 PM"
+},
+{
+"close":33.7,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"7/5/2016 12:00:00 PM"
+},
+{
+"close":33.48,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"7/6/2016 12:00:00 PM"
+},
+{
+"close":33.88,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"7/7/2016 12:00:00 PM"
+},
+{
+"close":33.5,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"7/8/2016 12:00:00 PM"
+},
+{
+"close":33,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"7/11/2016 12:00:00 PM"
+},
+{
+"close":32.25,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"7/12/2016 12:00:00 PM"
+},
+{
+"close":33.45,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"7/13/2016 12:00:00 PM"
+},
+{
+"close":32.75,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"7/14/2016 12:00:00 PM"
+},
+{
+"close":32.63,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"7/15/2016 12:00:00 PM"
+},
+{
+"close":32.88,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"7/18/2016 12:00:00 PM"
+},
+{
+"close":32.08,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"7/19/2016 12:00:00 PM"
+},
+{
+"close":32.58,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"7/20/2016 12:00:00 PM"
+},
+{
+"close":32.78,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"7/21/2016 12:00:00 PM"
+},
+{
+"close":32.93,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"7/22/2016 12:00:00 PM"
+},
+{
+"close":32.5,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"7/25/2016 12:00:00 PM"
+},
+{
+"close":32.3,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"7/26/2016 12:00:00 PM"
+},
+{
+"close":32.6,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"7/27/2016 12:00:00 PM"
+},
+{
+"close":32.62,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"7/28/2016 12:00:00 PM"
+},
+{
+"close":32.38,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"7/29/2016 12:00:00 PM"
+},
+{
+"close":32.4,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"8/1/2016 12:00:00 PM"
+},
+{
+"close":31.98,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"8/2/2016 12:00:00 PM"
+},
+{
+"close":31.88,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"8/3/2016 12:00:00 PM"
+},
+{
+"close":31.63,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"8/4/2016 12:00:00 PM"
+},
+{
+"close":31.6,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"8/5/2016 12:00:00 PM"
+},
+{
+"close":31.88,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"8/8/2016 12:00:00 PM"
+},
+{
+"close":31.53,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"8/9/2016 12:00:00 PM"
+},
+{
+"close":31.75,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"8/10/2016 12:00:00 PM"
+},
+{
+"close":31.55,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"8/11/2016 12:00:00 PM"
+},
+{
+"close":31.73,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"8/12/2016 12:00:00 PM"
+},
+{
+"close":31.93,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"8/15/2016 12:00:00 PM"
+},
+{
+"close":31.4,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"8/16/2016 12:00:00 PM"
+},
+{
+"close":31.53,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"8/17/2016 12:00:00 PM"
+},
+{
+"close":31.45,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"8/18/2016 12:00:00 PM"
+},
+{
+"close":31.13,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"8/19/2016 12:00:00 PM"
+},
+{
+"close":31.08,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"8/22/2016 12:00:00 PM"
+},
+{
+"close":30.74,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"8/23/2016 12:00:00 PM"
+},
+{
+"close":30.9,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"8/24/2016 12:00:00 PM"
+},
+{
+"close":30.92,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"8/25/2016 12:00:00 PM"
+},
+{
+"close":31.07,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"8/26/2016 12:00:00 PM"
+},
+{
+"close":31.05,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"8/29/2016 12:00:00 PM"
+},
+{
+"close":31.13,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"8/30/2016 12:00:00 PM"
+},
+{
+"close":30.99,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"8/31/2016 12:00:00 PM"
+},
+{
+"close":30.75,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"9/1/2016 12:00:00 PM"
+},
+{
+"close":30.71,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"9/2/2016 12:00:00 PM"
+},
+{
+"close":31.09,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"9/5/2016 12:00:00 PM"
+},
+{
+"close":30.55,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"9/6/2016 12:00:00 PM"
+},
+{
+"close":30.28,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"9/7/2016 12:00:00 PM"
+},
+{
+"close":30.38,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"9/8/2016 12:00:00 PM"
+},
+{
+"close":30.47,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"9/9/2016 12:00:00 PM"
+},
+{
+"close":30.45,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"9/12/2016 12:00:00 PM"
+},
+{
+"close":30.75,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"9/13/2016 12:00:00 PM"
+},
+{
+"close":30.72,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"9/14/2016 12:00:00 PM"
+},
+{
+"close":31.03,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"9/15/2016 12:00:00 PM"
+},
+{
+"close":31.3,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"9/16/2016 12:00:00 PM"
+},
+{
+"close":31.49,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"9/19/2016 12:00:00 PM"
+},
+{
+"close":31.14,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"9/20/2016 12:00:00 PM"
+},
+{
+"close":31.71,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"9/21/2016 12:00:00 PM"
+},
+{
+"close":32.36,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"9/22/2016 12:00:00 PM"
+},
+{
+"close":32.64,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"9/23/2016 12:00:00 PM"
+},
+{
+"close":32.95,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"9/26/2016 12:00:00 PM"
+},
+{
+"close":32.25,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"9/27/2016 12:00:00 PM"
+},
+{
+"close":33.77,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"9/28/2016 12:00:00 PM"
+},
+{
+"close":33.35,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"9/29/2016 12:00:00 PM"
+},
+{
+"close":33.1,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"9/30/2016 12:00:00 PM"
+},
+{
+"close":33.7,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"10/3/2016 12:00:00 PM"
+},
+{
+"close":33.26,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"10/4/2016 12:00:00 PM"
+},
+{
+"close":33.55,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"10/5/2016 12:00:00 PM"
+},
+{
+"close":34.88,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"10/6/2016 12:00:00 PM"
+},
+{
+"close":34.21,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"10/7/2016 12:00:00 PM"
+},
+{
+"close":34.05,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"10/10/2016 12:00:00 PM"
+},
+{
+"close":33.25,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"10/11/2016 12:00:00 PM"
+},
+{
+"close":33.78,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"10/12/2016 12:00:00 PM"
+},
+{
+"close":34.78,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"10/13/2016 12:00:00 PM"
+},
+{
+"close":34.85,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"10/14/2016 12:00:00 PM"
+},
+{
+"close":35.07,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"10/17/2016 12:00:00 PM"
+},
+{
+"close":35.78,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"10/18/2016 12:00:00 PM"
+},
+{
+"close":35.87,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"10/19/2016 12:00:00 PM"
+},
+{
+"close":35.65,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"10/20/2016 12:00:00 PM"
+},
+{
+"close":35.6,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"10/21/2016 12:00:00 PM"
+},
+{
+"close":35.98,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"10/24/2016 12:00:00 PM"
+},
+{
+"close":36.15,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"10/25/2016 12:00:00 PM"
+},
+{
+"close":37.03,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"10/26/2016 12:00:00 PM"
+},
+{
+"close":37.04,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"10/27/2016 12:00:00 PM"
+},
+{
+"close":37.08,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"10/28/2016 12:00:00 PM"
+},
+{
+"close":37.59,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"10/31/2016 12:00:00 PM"
+},
+{
+"close":37.07,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"11/1/2016 12:00:00 PM"
+},
+{
+"close":36.58,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"11/2/2016 12:00:00 PM"
+},
+{
+"close":37.9,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"11/3/2016 12:00:00 PM"
+},
+{
+"close":37.7,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"11/4/2016 12:00:00 PM"
+},
+{
+"close":37.72,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"11/7/2016 12:00:00 PM"
+},
+{
+"close":36.75,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"11/8/2016 12:00:00 PM"
+},
+{
+"close":37.4,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"11/9/2016 12:00:00 PM"
+},
+{
+"close":38.5,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"11/10/2016 12:00:00 PM"
+},
+{
+"close":38.75,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"11/11/2016 12:00:00 PM"
+},
+{
+"close":38.27,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"11/14/2016 12:00:00 PM"
+},
+{
+"close":37.8,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"11/15/2016 12:00:00 PM"
+},
+{
+"close":37.7,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"11/16/2016 12:00:00 PM"
+},
+{
+"close":36.3,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"11/17/2016 12:00:00 PM"
+},
+{
+"close":37.13,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"11/18/2016 12:00:00 PM"
+},
+{
+"close":37.38,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"11/21/2016 12:00:00 PM"
+},
+{
+"close":37.7,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"11/22/2016 12:00:00 PM"
+},
+{
+"close":37.48,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"11/23/2016 12:00:00 PM"
+},
+{
+"close":37.18,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"11/24/2016 12:00:00 PM"
+},
+{
+"close":37.17,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"11/25/2016 12:00:00 PM"
+},
+{
+"close":36.88,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"11/28/2016 12:00:00 PM"
+},
+{
+"close":36.25,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"11/29/2016 12:00:00 PM"
+},
+{
+"close":36.78,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"11/30/2016 12:00:00 PM"
+},
+{
+"close":36.69,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"12/1/2016 12:00:00 PM"
+},
+{
+"close":35.85,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"12/2/2016 12:00:00 PM"
+},
+{
+"close":34.58,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"12/5/2016 12:00:00 PM"
+},
+{
+"close":32.18,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"12/6/2016 12:00:00 PM"
+},
+{
+"close":32.52,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"12/7/2016 12:00:00 PM"
+},
+{
+"close":32.92,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"12/8/2016 12:00:00 PM"
+},
+{
+"close":33.95,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"12/9/2016 12:00:00 PM"
+},
+{
+"close":35.23,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"12/12/2016 12:00:00 PM"
+},
+{
+"close":34.26,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"12/13/2016 12:00:00 PM"
+},
+{
+"close":34.68,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"12/14/2016 12:00:00 PM"
+},
+{
+"close":35.42,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"12/15/2016 12:00:00 PM"
+},
+{
+"close":35.9,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"12/16/2016 12:00:00 PM"
+},
+{
+"close":35.71,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"12/19/2016 12:00:00 PM"
+},
+{
+"close":35.5,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"12/20/2016 12:00:00 PM"
+},
+{
+"close":36.1,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"12/21/2016 12:00:00 PM"
+},
+{
+"close":36.57,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"12/22/2016 12:00:00 PM"
+},
+{
+"close":37,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"12/23/2016 12:00:00 PM"
+},
+{
+"close":36.99,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"12/27/2016 12:00:00 PM"
+},
+{
+"close":38.2,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"12/28/2016 12:00:00 PM"
+},
+{
+"close":38.18,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"12/29/2016 12:00:00 PM"
+},
+{
+"close":38.24,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"12/30/2016 12:00:00 PM"
+},
+{
+"close":36.8,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"1/2/2017 12:00:00 PM"
+},
+{
+"close":36.35,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"1/3/2017 12:00:00 PM"
+},
+{
+"close":35.63,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"1/4/2017 12:00:00 PM"
+},
+{
+"close":35.94,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"1/5/2017 12:00:00 PM"
+},
+{
+"close":35.35,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"1/6/2017 12:00:00 PM"
+},
+{
+"close":34.83,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"1/9/2017 12:00:00 PM"
+},
+{
+"close":35.3,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"1/10/2017 12:00:00 PM"
+},
+{
+"close":35.7,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"1/11/2017 12:00:00 PM"
+},
+{
+"close":35.55,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"1/12/2017 12:00:00 PM"
+},
+{
+"close":35.07,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"1/13/2017 12:00:00 PM"
+},
+{
+"close":34.45,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"1/16/2017 12:00:00 PM"
+},
+{
+"close":35.3,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"1/17/2017 12:00:00 PM"
+},
+{
+"close":35.1,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"1/18/2017 12:00:00 PM"
+},
+{
+"close":34.85,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"1/19/2017 12:00:00 PM"
+},
+{
+"close":35.18,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"1/20/2017 12:00:00 PM"
+},
+{
+"close":35.56,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"1/23/2017 12:00:00 PM"
+},
+{
+"close":34.83,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"1/24/2017 12:00:00 PM"
+},
+{
+"close":34.6,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"1/25/2017 12:00:00 PM"
+},
+{
+"close":34.13,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"1/26/2017 12:00:00 PM"
+},
+{
+"close":34,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"1/27/2017 12:00:00 PM"
+},
+{
+"close":34.55,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"1/30/2017 12:00:00 PM"
+},
+{
+"close":34.8,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"1/31/2017 12:00:00 PM"
+},
+{
+"close":35.34,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"2/1/2017 12:00:00 PM"
+},
+{
+"close":35.23,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"2/2/2017 12:00:00 PM"
+},
+{
+"close":35.15,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"2/3/2017 12:00:00 PM"
+},
+{
+"close":34.84,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"2/6/2017 12:00:00 PM"
+},
+{
+"close":34.92,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"2/7/2017 12:00:00 PM"
+},
+{
+"close":35.15,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"2/8/2017 12:00:00 PM"
+},
+{
+"close":35.31,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"2/9/2017 12:00:00 PM"
+},
+{
+"close":35.55,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"2/10/2017 12:00:00 PM"
+},
+{
+"close":35.22,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"2/13/2017 12:00:00 PM"
+},
+{
+"close":35.28,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"2/14/2017 12:00:00 PM"
+},
+{
+"close":35.43,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"2/15/2017 12:00:00 PM"
+},
+{
+"close":35.35,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"2/16/2017 12:00:00 PM"
+},
+{
+"close":35.22,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"2/17/2017 12:00:00 PM"
+},
+{
+"close":36.03,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"2/20/2017 12:00:00 PM"
+},
+{
+"close":35.93,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"2/21/2017 12:00:00 PM"
+},
+{
+"close":35.71,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"2/22/2017 12:00:00 PM"
+},
+{
+"close":35.93,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"2/23/2017 12:00:00 PM"
+},
+{
+"close":35.95,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"2/24/2017 12:00:00 PM"
+},
+{
+"close":36,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"2/27/2017 12:00:00 PM"
+},
+{
+"close":35.53,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"2/28/2017 12:00:00 PM"
+},
+{
+"close":35.74,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"3/1/2017 12:00:00 PM"
+},
+{
+"close":35.51,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"3/2/2017 12:00:00 PM"
+},
+{
+"close":35.36,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"3/3/2017 12:00:00 PM"
+},
+{
+"close":35.29,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"3/6/2017 12:00:00 PM"
+},
+{
+"close":35.2,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"3/7/2017 12:00:00 PM"
+},
+{
+"close":34.78,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"3/8/2017 12:00:00 PM"
+},
+{
+"close":34.75,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"3/9/2017 12:00:00 PM"
+},
+{
+"close":34.68,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"3/10/2017 12:00:00 PM"
+},
+{
+"close":34.63,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"3/13/2017 12:00:00 PM"
+},
+{
+"close":34.7,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"3/14/2017 12:00:00 PM"
+},
+{
+"close":34.5,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"3/15/2017 12:00:00 PM"
+},
+{
+"close":34.4,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"3/16/2017 12:00:00 PM"
+},
+{
+"close":34.45,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"3/17/2017 12:00:00 PM"
+},
+{
+"close":34.45,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"3/20/2017 12:00:00 PM"
+},
+{
+"close":34.09,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"3/21/2017 12:00:00 PM"
+},
+{
+"close":33.7,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"3/22/2017 12:00:00 PM"
+},
+{
+"close":33.68,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"3/23/2017 12:00:00 PM"
+},
+{
+"close":33.98,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"3/24/2017 12:00:00 PM"
+},
+{
+"close":33.47,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"3/27/2017 12:00:00 PM"
+},
+{
+"close":33.85,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"3/28/2017 12:00:00 PM"
+},
+{
+"close":34.43,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"3/29/2017 12:00:00 PM"
+},
+{
+"close":34.23,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"3/30/2017 12:00:00 PM"
+},
+{
+"close":34.67,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"3/31/2017 12:00:00 PM"
+},
+{
+"close":34.95,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"4/3/2017 12:00:00 PM"
+},
+{
+"close":34.73,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"4/4/2017 12:00:00 PM"
+},
+{
+"close":34.99,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"4/5/2017 12:00:00 PM"
+},
+{
+"close":35.28,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"4/6/2017 12:00:00 PM"
+},
+{
+"close":35.04,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"4/7/2017 12:00:00 PM"
+},
+{
+"close":34.72,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"4/10/2017 12:00:00 PM"
+},
+{
+"close":34.4,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"4/11/2017 12:00:00 PM"
+},
+{
+"close":34.94,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"4/12/2017 12:00:00 PM"
+},
+{
+"close":34.95,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"4/13/2017 12:00:00 PM"
+},
+{
+"close":34.68,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"4/18/2017 12:00:00 PM"
+},
+{
+"close":35.3,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"4/19/2017 12:00:00 PM"
+},
+{
+"close":34.78,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"4/20/2017 12:00:00 PM"
+},
+{
+"close":35.04,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"4/21/2017 12:00:00 PM"
+},
+{
+"close":34.95,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"4/24/2017 12:00:00 PM"
+},
+{
+"close":34.65,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"4/25/2017 12:00:00 PM"
+},
+{
+"close":34.73,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"4/26/2017 12:00:00 PM"
+},
+{
+"close":34.85,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"4/27/2017 12:00:00 PM"
+},
+{
+"close":34.8,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"4/28/2017 12:00:00 PM"
+},
+{
+"close":34.84,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"5/2/2017 12:00:00 PM"
+},
+{
+"close":34.75,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"5/3/2017 12:00:00 PM"
+},
+{
+"close":34.45,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"5/4/2017 12:00:00 PM"
+},
+{
+"close":34.58,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"5/5/2017 12:00:00 PM"
+},
+{
+"close":34.45,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"5/8/2017 12:00:00 PM"
+},
+{
+"close":34.33,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"5/9/2017 12:00:00 PM"
+},
+{
+"close":34.65,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"5/10/2017 12:00:00 PM"
+},
+{
+"close":34.62,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"5/11/2017 12:00:00 PM"
+},
+{
+"close":34.66,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"5/12/2017 12:00:00 PM"
+},
+{
+"close":34.44,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"5/15/2017 12:00:00 PM"
+},
+{
+"close":34.75,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"5/16/2017 12:00:00 PM"
+},
+{
+"close":35.59,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"5/17/2017 12:00:00 PM"
+},
+{
+"close":35.99,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"5/18/2017 12:00:00 PM"
+},
+{
+"close":35.99,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"5/19/2017 12:00:00 PM"
+},
+{
+"close":36.63,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"5/22/2017 12:00:00 PM"
+},
+{
+"close":36.72,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"5/23/2017 12:00:00 PM"
+},
+{
+"close":36.48,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"5/24/2017 12:00:00 PM"
+},
+{
+"close":36.33,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"5/25/2017 12:00:00 PM"
+},
+{
+"close":36.42,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"5/26/2017 12:00:00 PM"
+},
+{
+"close":36.6,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"5/29/2017 12:00:00 PM"
+},
+{
+"close":36.83,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"5/30/2017 12:00:00 PM"
+},
+{
+"close":36.43,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"5/31/2017 12:00:00 PM"
+},
+{
+"close":36.48,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"6/1/2017 12:00:00 PM"
+},
+{
+"close":36.88,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"6/2/2017 12:00:00 PM"
+},
+{
+"close":37.2,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"6/5/2017 12:00:00 PM"
+},
+{
+"close":37.01,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"6/6/2017 12:00:00 PM"
+},
+{
+"close":36.85,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"6/7/2017 12:00:00 PM"
+},
+{
+"close":36.65,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"6/8/2017 12:00:00 PM"
+},
+{
+"close":36.83,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"6/9/2017 12:00:00 PM"
+},
+{
+"close":36.68,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"6/12/2017 12:00:00 PM"
+},
+{
+"close":36.9,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"6/13/2017 12:00:00 PM"
+},
+{
+"close":37.15,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"6/14/2017 12:00:00 PM"
+},
+{
+"close":37,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"6/15/2017 12:00:00 PM"
+},
+{
+"close":36.91,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"6/16/2017 12:00:00 PM"
+},
+{
+"close":37.18,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"6/19/2017 12:00:00 PM"
+},
+{
+"close":37.3,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"6/20/2017 12:00:00 PM"
+},
+{
+"close":37.05,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"6/21/2017 12:00:00 PM"
+},
+{
+"close":36.9,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"6/22/2017 12:00:00 PM"
+},
+{
+"close":36.6,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"6/23/2017 12:00:00 PM"
+},
+{
+"close":36.48,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"6/26/2017 12:00:00 PM"
+},
+{
+"close":36.68,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"6/27/2017 12:00:00 PM"
+},
+{
+"close":36.61,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"6/28/2017 12:00:00 PM"
+},
+{
+"close":36.65,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"6/29/2017 12:00:00 PM"
+},
+{
+"close":36.7,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"6/30/2017 12:00:00 PM"
+},
+{
+"close":36.83,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"7/3/2017 12:00:00 PM"
+},
+{
+"close":37.02,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"7/4/2017 12:00:00 PM"
+},
+{
+"close":37.05,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"7/5/2017 12:00:00 PM"
+},
+{
+"close":37.32,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"7/6/2017 12:00:00 PM"
+},
+{
+"close":37.46,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"7/7/2017 12:00:00 PM"
+},
+{
+"close":37.59,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"7/10/2017 12:00:00 PM"
+},
+{
+"close":37.1,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"7/11/2017 12:00:00 PM"
+},
+{
+"close":36.99,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"7/12/2017 12:00:00 PM"
+},
+{
+"close":36.87,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"7/13/2017 12:00:00 PM"
+},
+{
+"close":36.83,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"7/14/2017 12:00:00 PM"
+},
+{
+"close":36.88,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"7/17/2017 12:00:00 PM"
+},
+{
+"close":36.95,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"7/18/2017 12:00:00 PM"
+},
+{
+"close":36.78,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"7/19/2017 12:00:00 PM"
+},
+{
+"close":37.03,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"7/20/2017 12:00:00 PM"
+},
+{
+"close":36.88,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"7/21/2017 12:00:00 PM"
+},
+{
+"close":36.54,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"7/24/2017 12:00:00 PM"
+},
+{
+"close":36.53,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"7/25/2017 12:00:00 PM"
+},
+{
+"close":36.65,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"7/26/2017 12:00:00 PM"
+},
+{
+"close":36.63,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"7/27/2017 12:00:00 PM"
+},
+{
+"close":36.65,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"7/28/2017 12:00:00 PM"
+},
+{
+"close":36.84,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"7/31/2017 12:00:00 PM"
+},
+{
+"close":36.71,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"8/1/2017 12:00:00 PM"
+},
+{
+"close":36.65,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"8/2/2017 12:00:00 PM"
+},
+{
+"close":36.66,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"8/3/2017 12:00:00 PM"
+},
+{
+"close":36.74,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"8/4/2017 12:00:00 PM"
+},
+{
+"close":36.85,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"8/7/2017 12:00:00 PM"
+},
+{
+"close":36.64,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"8/8/2017 12:00:00 PM"
+},
+{
+"close":36.81,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"8/9/2017 12:00:00 PM"
+},
+{
+"close":37.06,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"8/10/2017 12:00:00 PM"
+},
+{
+"close":37.42,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"8/11/2017 12:00:00 PM"
+},
+{
+"close":37.9,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"8/14/2017 12:00:00 PM"
+},
+{
+"close":37.5,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"8/15/2017 12:00:00 PM"
+},
+{
+"close":38.09,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"8/16/2017 12:00:00 PM"
+},
+{
+"close":38.6,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"8/17/2017 12:00:00 PM"
+},
+{
+"close":38.37,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"8/18/2017 12:00:00 PM"
+},
+{
+"close":38,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"8/21/2017 12:00:00 PM"
+},
+{
+"close":38,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"8/22/2017 12:00:00 PM"
+},
+{
+"close":38.09,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"8/23/2017 12:00:00 PM"
+},
+{
+"close":38.22,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"8/24/2017 12:00:00 PM"
+},
+{
+"close":38.45,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"8/25/2017 12:00:00 PM"
+},
+{
+"close":38.69,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"8/28/2017 12:00:00 PM"
+},
+{
+"close":38.21,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"8/29/2017 12:00:00 PM"
+},
+{
+"close":38.58,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"8/30/2017 12:00:00 PM"
+},
+{
+"close":38.26,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"8/31/2017 12:00:00 PM"
+},
+{
+"close":38.37,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"9/1/2017 12:00:00 PM"
+},
+{
+"close":38.4,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"9/4/2017 12:00:00 PM"
+},
+{
+"close":38.88,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"9/5/2017 12:00:00 PM"
+},
+{
+"close":39.44,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"9/6/2017 12:00:00 PM"
+},
+{
+"close":39.53,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"9/7/2017 12:00:00 PM"
+},
+{
+"close":39.93,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"9/8/2017 12:00:00 PM"
+},
+{
+"close":40.05,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"9/11/2017 12:00:00 PM"
+},
+{
+"close":39.78,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"9/12/2017 12:00:00 PM"
+},
+{
+"close":40.43,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"9/13/2017 12:00:00 PM"
+},
+{
+"close":41.02,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"9/14/2017 12:00:00 PM"
+},
+{
+"close":40.06,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"9/15/2017 12:00:00 PM"
+},
+{
+"close":39.84,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"9/18/2017 12:00:00 PM"
+},
+{
+"close":40.14,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"9/19/2017 12:00:00 PM"
+},
+{
+"close":40.07,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"9/20/2017 12:00:00 PM"
+},
+{
+"close":39.42,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"9/21/2017 12:00:00 PM"
+},
+{
+"close":39.04,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"9/22/2017 12:00:00 PM"
+},
+{
+"close":39.97,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"9/25/2017 12:00:00 PM"
+},
+{
+"close":39.8,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"9/26/2017 12:00:00 PM"
+},
+{
+"close":39.75,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"9/27/2017 12:00:00 PM"
+},
+{
+"close":39.83,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"9/28/2017 12:00:00 PM"
+},
+{
+"close":39.6,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"9/29/2017 12:00:00 PM"
+},
+{
+"close":39.03,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"10/2/2017 12:00:00 PM"
+},
+{
+"close":38.92,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"10/3/2017 12:00:00 PM"
+},
+{
+"close":39.03,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"10/4/2017 12:00:00 PM"
+},
+{
+"close":39.13,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"10/5/2017 12:00:00 PM"
+},
+{
+"close":39.23,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"10/6/2017 12:00:00 PM"
+},
+{
+"close":39.18,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"10/9/2017 12:00:00 PM"
+},
+{
+"close":39.08,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"10/10/2017 12:00:00 PM"
+},
+{
+"close":39.31,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"10/11/2017 12:00:00 PM"
+},
+{
+"close":39.13,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"10/12/2017 12:00:00 PM"
+},
+{
+"close":39.29,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"10/13/2017 12:00:00 PM"
+},
+{
+"close":39.32,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"10/16/2017 12:00:00 PM"
+},
+{
+"close":39.42,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"10/17/2017 12:00:00 PM"
+},
+{
+"close":39.8,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"10/18/2017 12:00:00 PM"
+},
+{
+"close":39.36,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"10/19/2017 12:00:00 PM"
+},
+{
+"close":38.9,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"10/20/2017 12:00:00 PM"
+},
+{
+"close":38.89,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"10/23/2017 12:00:00 PM"
+},
+{
+"close":39.13,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"10/24/2017 12:00:00 PM"
+},
+{
+"close":39.3,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"10/25/2017 12:00:00 PM"
+},
+{
+"close":39.36,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"10/26/2017 12:00:00 PM"
+},
+{
+"close":39.84,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"10/27/2017 12:00:00 PM"
+},
+{
+"close":39.92,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"10/30/2017 12:00:00 PM"
+},
+{
+"close":40.14,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"10/31/2017 12:00:00 PM"
+},
+{
+"close":40.45,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"11/1/2017 12:00:00 PM"
+},
+{
+"close":40.73,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"11/2/2017 12:00:00 PM"
+},
+{
+"close":40.18,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"11/3/2017 12:00:00 PM"
+},
+{
+"close":40.77,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"11/6/2017 12:00:00 PM"
+},
+{
+"close":40.75,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"11/7/2017 12:00:00 PM"
+},
+{
+"close":40.63,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"11/8/2017 12:00:00 PM"
+},
+{
+"close":40.5,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"11/9/2017 12:00:00 PM"
+},
+{
+"close":40.48,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"11/10/2017 12:00:00 PM"
+},
+{
+"close":40.65,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"11/13/2017 12:00:00 PM"
+},
+{
+"close":40.39,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"11/14/2017 12:00:00 PM"
+},
+{
+"close":40.34,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"11/15/2017 12:00:00 PM"
+},
+{
+"close":40.4,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"11/16/2017 12:00:00 PM"
+},
+{
+"close":40.35,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"11/17/2017 12:00:00 PM"
+},
+{
+"close":40.06,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"11/20/2017 12:00:00 PM"
+},
+{
+"close":40.22,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"11/21/2017 12:00:00 PM"
+},
+{
+"close":40.12,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"11/22/2017 12:00:00 PM"
+},
+{
+"close":40.29,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"11/23/2017 12:00:00 PM"
+},
+{
+"close":40.52,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"11/24/2017 12:00:00 PM"
+},
+{
+"close":40.69,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"11/27/2017 12:00:00 PM"
+},
+{
+"close":40.35,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"11/28/2017 12:00:00 PM"
+},
+{
+"close":40.28,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"11/29/2017 12:00:00 PM"
+},
+{
+"close":40.3,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"11/30/2017 12:00:00 PM"
+},
+{
+"close":40.52,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"12/1/2017 12:00:00 PM"
+},
+{
+"close":40.85,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"12/4/2017 12:00:00 PM"
+},
+{
+"close":40.48,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"12/5/2017 12:00:00 PM"
+},
+{
+"close":40.25,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"12/6/2017 12:00:00 PM"
+},
+{
+"close":40.21,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"12/7/2017 12:00:00 PM"
+},
+{
+"close":40.62,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"12/8/2017 12:00:00 PM"
+},
+{
+"close":40.61,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"12/11/2017 12:00:00 PM"
+},
+{
+"close":41.08,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"12/12/2017 12:00:00 PM"
+},
+{
+"close":40.95,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"12/13/2017 12:00:00 PM"
+},
+{
+"close":41.08,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"12/14/2017 12:00:00 PM"
+},
+{
+"close":41.46,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"12/15/2017 12:00:00 PM"
+},
+{
+"close":41.61,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"12/18/2017 12:00:00 PM"
+},
+{
+"close":41.55,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"12/19/2017 12:00:00 PM"
+},
+{
+"close":41.83,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"12/20/2017 12:00:00 PM"
+},
+{
+"close":41.98,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"12/21/2017 12:00:00 PM"
+},
+{
+"close":41.93,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"12/22/2017 12:00:00 PM"
+},
+{
+"close":41.94,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"12/27/2017 12:00:00 PM"
+},
+{
+"close":42.02,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"12/28/2017 12:00:00 PM"
+},
+{
+"close":41.85,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"12/29/2017 12:00:00 PM"
+},
+{
+"close":41.83,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"1/2/2018 12:00:00 PM"
+},
+{
+"close":41.65,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"1/3/2018 12:00:00 PM"
+},
+{
+"close":41.39,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"1/4/2018 12:00:00 PM"
+},
+{
+"close":41.42,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"1/5/2018 12:00:00 PM"
+},
+{
+"close":41.2,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"1/8/2018 12:00:00 PM"
+},
+{
+"close":41.26,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"1/9/2018 12:00:00 PM"
+},
+{
+"close":41.1,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"1/10/2018 12:00:00 PM"
+},
+{
+"close":40.77,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"1/11/2018 12:00:00 PM"
+},
+{
+"close":40.69,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"1/12/2018 12:00:00 PM"
+},
+{
+"close":40.46,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"1/15/2018 12:00:00 PM"
+},
+{
+"close":40.41,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"1/16/2018 12:00:00 PM"
+},
+{
+"close":40.09,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"1/17/2018 12:00:00 PM"
+},
+{
+"close":40.07,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"1/18/2018 12:00:00 PM"
+},
+{
+"close":40.39,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"1/19/2018 12:00:00 PM"
+},
+{
+"close":40.55,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"1/22/2018 12:00:00 PM"
+},
+{
+"close":40.4,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"1/23/2018 12:00:00 PM"
+},
+{
+"close":40.21,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"1/24/2018 12:00:00 PM"
+},
+{
+"close":40.2,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"1/25/2018 12:00:00 PM"
+},
+{
+"close":40.39,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"1/26/2018 12:00:00 PM"
+},
+{
+"close":40.27,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"1/29/2018 12:00:00 PM"
+},
+{
+"close":39.63,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"1/30/2018 12:00:00 PM"
+},
+{
+"close":39.42,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"1/31/2018 12:00:00 PM"
+},
+{
+"close":39.44,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"2/1/2018 12:00:00 PM"
+},
+{
+"close":39.17,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"2/2/2018 12:00:00 PM"
+},
+{
+"close":38.95,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"2/5/2018 12:00:00 PM"
+},
+{
+"close":38.93,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"2/6/2018 12:00:00 PM"
+},
+{
+"close":39.22,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"2/7/2018 12:00:00 PM"
+},
+{
+"close":38.8,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"2/8/2018 12:00:00 PM"
+},
+{
+"close":38.7,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"2/9/2018 12:00:00 PM"
+},
+{
+"close":38.8,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"2/12/2018 12:00:00 PM"
+},
+{
+"close":39.37,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"2/13/2018 12:00:00 PM"
+},
+{
+"close":39.42,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"2/14/2018 12:00:00 PM"
+},
+{
+"close":39.15,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"2/15/2018 12:00:00 PM"
+},
+{
+"close":39.33,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"2/16/2018 12:00:00 PM"
+},
+{
+"close":40,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"2/19/2018 12:00:00 PM"
+},
+{
+"close":40.06,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"2/20/2018 12:00:00 PM"
+},
+{
+"close":39.76,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"2/21/2018 12:00:00 PM"
+},
+{
+"close":39.73,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"2/22/2018 12:00:00 PM"
+},
+{
+"close":39.96,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"2/23/2018 12:00:00 PM"
+},
+{
+"close":39.34,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"2/26/2018 12:00:00 PM"
+},
+{
+"close":39.25,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"2/27/2018 12:00:00 PM"
+},
+{
+"close":39.26,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"2/28/2018 12:00:00 PM"
+},
+{
+"close":39.03,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"3/1/2018 12:00:00 PM"
+},
+{
+"close":38.88,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"3/2/2018 12:00:00 PM"
+},
+{
+"close":39,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"3/5/2018 12:00:00 PM"
+},
+{
+"close":39.48,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"3/6/2018 12:00:00 PM"
+},
+{
+"close":39.5,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"3/7/2018 12:00:00 PM"
+},
+{
+"close":39.71,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"3/8/2018 12:00:00 PM"
+},
+{
+"close":39.8,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"3/9/2018 12:00:00 PM"
+},
+{
+"close":40.11,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"3/12/2018 12:00:00 PM"
+},
+{
+"close":39.92,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"3/13/2018 12:00:00 PM"
+},
+{
+"close":39.59,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"3/14/2018 12:00:00 PM"
+},
+{
+"close":39.86,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"3/15/2018 12:00:00 PM"
+},
+{
+"close":39.72,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"3/16/2018 12:00:00 PM"
+},
+{
+"close":39.41,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"3/19/2018 12:00:00 PM"
+},
+{
+"close":40.07,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"3/20/2018 12:00:00 PM"
+},
+{
+"close":40.51,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"3/21/2018 12:00:00 PM"
+},
+{
+"close":40.48,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"3/22/2018 12:00:00 PM"
+},
+{
+"close":40.5,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"3/23/2018 12:00:00 PM"
+},
+{
+"close":40.35,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"3/26/2018 12:00:00 PM"
+},
+{
+"close":40.64,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"3/27/2018 12:00:00 PM"
+},
+{
+"close":40.86,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"3/28/2018 12:00:00 PM"
+},
+{
+"close":41.1,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"3/29/2018 12:00:00 PM"
+},
+{
+"close":41.21,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"4/3/2018 12:00:00 PM"
+},
+{
+"close":40.91,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"4/4/2018 12:00:00 PM"
+},
+{
+"close":41.06,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"4/5/2018 12:00:00 PM"
+},
+{
+"close":41.21,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"4/6/2018 12:00:00 PM"
+},
+{
+"close":41.75,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"4/9/2018 12:00:00 PM"
+},
+{
+"close":42.02,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"4/10/2018 12:00:00 PM"
+},
+{
+"close":42.31,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"4/11/2018 12:00:00 PM"
+},
+{
+"close":42.5,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"4/12/2018 12:00:00 PM"
+},
+{
+"close":43.05,
+"offexchtradevolumeeex":70080,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"4/13/2018 12:00:00 PM"
+},
+{
+"close":43.36,
+"offexchtradevolumeeex":70080,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"4/16/2018 12:00:00 PM"
+},
+{
+"close":42.69,
+"offexchtradevolumeeex":70080,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"4/17/2018 12:00:00 PM"
+},
+{
+"close":42.74,
+"offexchtradevolumeeex":70080,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"4/18/2018 12:00:00 PM"
+},
+{
+"close":43.43,
+"offexchtradevolumeeex":70080,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"4/19/2018 12:00:00 PM"
+},
+{
+"close":42.84,
+"offexchtradevolumeeex":70080,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"4/20/2018 12:00:00 PM"
+},
+{
+"close":42.88,
+"offexchtradevolumeeex":70080,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"4/23/2018 12:00:00 PM"
+},
+{
+"close":42.79,
+"offexchtradevolumeeex":70080,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"4/24/2018 12:00:00 PM"
+},
+{
+"close":42.83,
+"offexchtradevolumeeex":70080,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"4/25/2018 12:00:00 PM"
+},
+{
+"close":43.35,
+"offexchtradevolumeeex":70080,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"4/26/2018 12:00:00 PM"
+},
+{
+"close":43.52,
+"offexchtradevolumeeex":70080,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"4/27/2018 12:00:00 PM"
+},
+{
+"close":44.03,
+"offexchtradevolumeeex":70080,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"4/30/2018 12:00:00 PM"
+},
+{
+"close":43.51,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"5/2/2018 12:00:00 PM"
+},
+{
+"close":43.4,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"5/3/2018 12:00:00 PM"
+},
+{
+"close":43.7,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"5/4/2018 12:00:00 PM"
+},
+{
+"close":44.31,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"5/7/2018 12:00:00 PM"
+},
+{
+"close":44.44,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"5/8/2018 12:00:00 PM"
+},
+{
+"close":44.81,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"5/9/2018 12:00:00 PM"
+},
+{
+"close":45.18,
+"offexchtradevolumeeex":70080,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"5/10/2018 12:00:00 PM"
+},
+{
+"close":45.59,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"5/11/2018 12:00:00 PM"
+},
+{
+"close":45.96,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"5/14/2018 12:00:00 PM"
+},
+{
+"close":46.3,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"5/15/2018 12:00:00 PM"
+},
+{
+"close":46.38,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"5/16/2018 12:00:00 PM"
+},
+{
+"close":47.07,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"5/17/2018 12:00:00 PM"
+},
+{
+"close":46.81,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"5/18/2018 12:00:00 PM"
+},
+{
+"close":47.01,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"5/21/2018 12:00:00 PM"
+},
+{
+"close":48,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"5/22/2018 12:00:00 PM"
+},
+{
+"close":47.95,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"5/23/2018 12:00:00 PM"
+},
+{
+"close":47.69,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"5/24/2018 12:00:00 PM"
+},
+{
+"close":46.71,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"5/25/2018 12:00:00 PM"
+},
+{
+"close":47.04,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"5/28/2018 12:00:00 PM"
+},
+{
+"close":46.93,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"5/29/2018 12:00:00 PM"
+},
+{
+"close":46.78,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"5/30/2018 12:00:00 PM"
+},
+{
+"close":46.48,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"5/31/2018 12:00:00 PM"
+},
+{
+"close":44.8,
+"offexchtradevolumeeex":70080,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"6/1/2018 12:00:00 PM"
+},
+{
+"close":46.39,
+"offexchtradevolumeeex":70080,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"6/4/2018 12:00:00 PM"
+},
+{
+"close":46.03,
+"offexchtradevolumeeex":70080,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"6/5/2018 12:00:00 PM"
+},
+{
+"close":45.63,
+"offexchtradevolumeeex":70080,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"6/6/2018 12:00:00 PM"
+},
+{
+"close":45.73,
+"offexchtradevolumeeex":70080,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"6/7/2018 12:00:00 PM"
+},
+{
+"close":46.17,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"6/8/2018 12:00:00 PM"
+},
+{
+"close":45.75,
+"offexchtradevolumeeex":70080,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"6/11/2018 12:00:00 PM"
+},
+{
+"close":46.5,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"6/12/2018 12:00:00 PM"
+},
+{
+"close":46.67,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"6/13/2018 12:00:00 PM"
+},
+{
+"close":46.85,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"6/14/2018 12:00:00 PM"
+},
+{
+"close":46.29,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"6/15/2018 12:00:00 PM"
+},
+{
+"close":46.93,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"6/18/2018 12:00:00 PM"
+},
+{
+"close":46.89,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"6/19/2018 12:00:00 PM"
+},
+{
+"close":46.11,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"6/20/2018 12:00:00 PM"
+},
+{
+"close":45.75,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"6/21/2018 12:00:00 PM"
+},
+{
+"close":46.12,
+"offexchtradevolumeeex":70080,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"6/22/2018 12:00:00 PM"
+},
+{
+"close":46.35,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"6/25/2018 12:00:00 PM"
+},
+{
+"close":46.36,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"6/26/2018 12:00:00 PM"
+},
+{
+"close":47.39,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"6/27/2018 12:00:00 PM"
+},
+{
+"close":47.83,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"6/28/2018 12:00:00 PM"
+},
+{
+"close":48.25,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"6/29/2018 12:00:00 PM"
+},
+{
+"close":48.73,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"7/2/2018 12:00:00 PM"
+},
+{
+"close":48.97,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"7/3/2018 12:00:00 PM"
+},
+{
+"close":48.8,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"7/4/2018 12:00:00 PM"
+},
+{
+"close":49.43,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"7/5/2018 12:00:00 PM"
+},
+{
+"close":49.31,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"7/6/2018 12:00:00 PM"
+},
+{
+"close":49.93,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"7/9/2018 12:00:00 PM"
+},
+{
+"close":50.46,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"7/10/2018 12:00:00 PM"
+},
+{
+"close":50.44,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"7/11/2018 12:00:00 PM"
+},
+{
+"close":49.5,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"7/12/2018 12:00:00 PM"
+},
+{
+"close":48.89,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"7/13/2018 12:00:00 PM"
+},
+{
+"close":49.14,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"7/16/2018 12:00:00 PM"
+},
+{
+"close":48.43,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"7/17/2018 12:00:00 PM"
+},
+{
+"close":49.09,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"7/18/2018 12:00:00 PM"
+},
+{
+"close":49.91,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"7/19/2018 12:00:00 PM"
+},
+{
+"close":49.3,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"7/20/2018 12:00:00 PM"
+},
+{
+"close":49.8,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"7/23/2018 12:00:00 PM"
+},
+{
+"close":49.99,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"7/24/2018 12:00:00 PM"
+},
+{
+"close":50,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"7/25/2018 12:00:00 PM"
+},
+{
+"close":49.35,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"7/26/2018 12:00:00 PM"
+},
+{
+"close":49.2,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"7/27/2018 12:00:00 PM"
+},
+{
+"close":48.95,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"7/30/2018 12:00:00 PM"
+},
+{
+"close":48.74,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"7/31/2018 12:00:00 PM"
+},
+{
+"close":48.87,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"8/1/2018 12:00:00 PM"
+},
+{
+"close":48.7,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"8/2/2018 12:00:00 PM"
+},
+{
+"close":48.98,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"8/3/2018 12:00:00 PM"
+},
+{
+"close":49.49,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"8/6/2018 12:00:00 PM"
+},
+{
+"close":49.52,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"8/7/2018 12:00:00 PM"
+},
+{
+"close":49.24,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"8/8/2018 12:00:00 PM"
+},
+{
+"close":49.43,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"8/9/2018 12:00:00 PM"
+},
+{
+"close":49.61,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"8/10/2018 12:00:00 PM"
+},
+{
+"close":50.26,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"8/13/2018 12:00:00 PM"
+},
+{
+"close":50.55,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"8/14/2018 12:00:00 PM"
+},
+{
+"close":50.71,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"8/15/2018 12:00:00 PM"
+},
+{
+"close":51.06,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"8/16/2018 12:00:00 PM"
+},
+{
+"close":51.67,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"8/17/2018 12:00:00 PM"
+},
+{
+"close":52.1,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"8/20/2018 12:00:00 PM"
+},
+{
+"close":52.68,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"8/21/2018 12:00:00 PM"
+},
+{
+"close":53.1,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"8/22/2018 12:00:00 PM"
+},
+{
+"close":53.92,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"8/23/2018 12:00:00 PM"
+},
+{
+"close":54.09,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":0,
+"tradedatetimegmt":"8/24/2018 12:00:00 PM"
+},
+{
+"close":55.33,
+"offexchtradevolumeeex":43800,
+"onexchtradevolumeeex":262800,
+"tradedatetimegmt":"8/27/2018 12:00:00 PM"
+},
+{
+"close":55.35,
+"offexchtradevolumeeex":464280,
+"onexchtradevolumeeex":78840,
+"tradedatetimegmt":"8/28/2018 12:00:00 PM"
+},
+{
+"close":55.5,
+"offexchtradevolumeeex":367920,
+"onexchtradevolumeeex":122640,
+"tradedatetimegmt":"8/29/2018 12:00:00 PM"
+},
+{
+"close":56.82,
+"offexchtradevolumeeex":236520,
+"onexchtradevolumeeex":105120,
+"tradedatetimegmt":"8/30/2018 12:00:00 PM"
+},
+{
+"close":56.13,
+"offexchtradevolumeeex":516840,
+"onexchtradevolumeeex":70080,
+"tradedatetimegmt":"8/31/2018 12:00:00 PM"
+},
+{
+"close":55.05,
+"offexchtradevolumeeex":52560,
+"onexchtradevolumeeex":508080,
+"tradedatetimegmt":"9/3/2018 12:00:00 PM"
+},
+{
+"close":56.35,
+"offexchtradevolumeeex":297840,
+"onexchtradevolumeeex":376680,
+"tradedatetimegmt":"9/4/2018 12:00:00 PM"
+},
+{
+"close":56.74,
+"offexchtradevolumeeex":157680,
+"onexchtradevolumeeex":289080,
+"tradedatetimegmt":"9/5/2018 12:00:00 PM"
+},
+{
+"close":58.1,
+"offexchtradevolumeeex":289080,
+"onexchtradevolumeeex":306600,
+"tradedatetimegmt":"9/6/2018 12:00:00 PM"
+},
+{
+"close":59.93,
+"offexchtradevolumeeex":455520,
+"onexchtradevolumeeex":429240,
+"tradedatetimegmt":"9/7/2018 12:00:00 PM"
+},
+{
+"close":62.44,
+"offexchtradevolumeeex":551880,
+"onexchtradevolumeeex":700800,
+"tradedatetimegmt":"9/10/2018 12:00:00 PM"
+},
+{
+"close":62.58,
+"offexchtradevolumeeex":744600,
+"onexchtradevolumeeex":543120,
+"tradedatetimegmt":"9/11/2018 12:00:00 PM"
+},
+{
+"close":61.85,
+"offexchtradevolumeeex":210240,
+"onexchtradevolumeeex":700800,
+"tradedatetimegmt":"9/12/2018 12:00:00 PM"
+},
+{
+"close":58.35,
+"offexchtradevolumeeex":175200,
+"onexchtradevolumeeex":779640,
+"tradedatetimegmt":"9/13/2018 12:00:00 PM"
+},
+{
+"close":56.54,
+"offexchtradevolumeeex":70080,
+"onexchtradevolumeeex":271560,
+"tradedatetimegmt":"9/14/2018 12:00:00 PM"
+},
+{
+"close":59.22,
+"offexchtradevolumeeex":201480,
+"onexchtradevolumeeex":438000,
+"tradedatetimegmt":"9/17/2018 12:00:00 PM"
+},
+{
+"close":58.7,
+"offexchtradevolumeeex":52560,
+"onexchtradevolumeeex":271560,
+"tradedatetimegmt":"9/18/2018 12:00:00 PM"
+},
+{
+"close":59.1,
+"offexchtradevolumeeex":411720,
+"onexchtradevolumeeex":735840,
+"tradedatetimegmt":"9/19/2018 12:00:00 PM"
+},
+{
+"close":61.43,
+"offexchtradevolumeeex":35040,
+"onexchtradevolumeeex":17520,
+"tradedatetimegmt":"9/20/2018 12:00:00 PM"
+},
+{
+"close":60.77,
+"offexchtradevolumeeex":96360,
+"onexchtradevolumeeex":578160,
+"tradedatetimegmt":"9/21/2018 12:00:00 PM"
+},
+{
+"close":61.88,
+"offexchtradevolumeeex":595680,
+"onexchtradevolumeeex":148920,
+"tradedatetimegmt":"9/24/2018 12:00:00 PM"
+},
+{
+"close":60.82,
+"offexchtradevolumeeex":254040,
+"onexchtradevolumeeex":210240,
+"tradedatetimegmt":"9/25/2018 12:00:00 PM"
+},
+{
+"close":59.25,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":385440,
+"tradedatetimegmt":"9/26/2018 12:00:00 PM"
+},
+{
+"close":59.45,
+"offexchtradevolumeeex":26280,
+"onexchtradevolumeeex":499320,
+"tradedatetimegmt":"9/27/2018 12:00:00 PM"
+},
+{
+"close":59.22,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":78840,
+"tradedatetimegmt":"9/28/2018 12:00:00 PM"
+},
+{
+"close":59.45,
+"offexchtradevolumeeex":122640,
+"onexchtradevolumeeex":254040,
+"tradedatetimegmt":"10/1/2018 12:00:00 PM"
+},
+{
+"close":59.99,
+"offexchtradevolumeeex":753360,
+"onexchtradevolumeeex":657000,
+"tradedatetimegmt":"10/2/2018 12:00:00 PM"
+},
+{
+"close":59.83,
+"offexchtradevolumeeex":148920,
+"onexchtradevolumeeex":105120,
+"tradedatetimegmt":"10/3/2018 12:00:00 PM"
+},
+{
+"close":60.35,
+"offexchtradevolumeeex":43800,
+"onexchtradevolumeeex":157680,
+"tradedatetimegmt":"10/4/2018 12:00:00 PM"
+},
+{
+"close":60.55,
+"offexchtradevolumeeex":148920,
+"onexchtradevolumeeex":254040,
+"tradedatetimegmt":"10/5/2018 12:00:00 PM"
+},
+{
+"close":60.95,
+"offexchtradevolumeeex":140160,
+"onexchtradevolumeeex":192720,
+"tradedatetimegmt":"10/8/2018 12:00:00 PM"
+},
+{
+"close":59.65,
+"offexchtradevolumeeex":131400,
+"onexchtradevolumeeex":324120,
+"tradedatetimegmt":"10/9/2018 12:00:00 PM"
+},
+{
+"close":57.61,
+"offexchtradevolumeeex":604440,
+"onexchtradevolumeeex":516840,
+"tradedatetimegmt":"10/10/2018 12:00:00 PM"
+},
+{
+"close":56.07,
+"offexchtradevolumeeex":455520,
+"onexchtradevolumeeex":1848360,
+"tradedatetimegmt":"10/11/2018 12:00:00 PM"
+},
+{
+"close":57.5,
+"offexchtradevolumeeex":473040,
+"onexchtradevolumeeex":735840,
+"tradedatetimegmt":"10/12/2018 12:00:00 PM"
+},
+{
+"close":56.85,
+"offexchtradevolumeeex":534360,
+"onexchtradevolumeeex":289080,
+"tradedatetimegmt":"10/15/2018 12:00:00 PM"
+},
+{
+"close":56.63,
+"offexchtradevolumeeex":508080,
+"onexchtradevolumeeex":709560,
+"tradedatetimegmt":"10/16/2018 12:00:00 PM"
+},
+{
+"close":56.55,
+"offexchtradevolumeeex":61320,
+"onexchtradevolumeeex":315360,
+"tradedatetimegmt":"10/17/2018 12:00:00 PM"
+},
+{
+"close":56.65,
+"offexchtradevolumeeex":70080,
+"onexchtradevolumeeex":499320,
+"tradedatetimegmt":"10/18/2018 12:00:00 PM"
+},
+{
+"close":58.24,
+"offexchtradevolumeeex":78840,
+"onexchtradevolumeeex":192720,
+"tradedatetimegmt":"10/19/2018 12:00:00 PM"
+},
+{
+"close":57.2,
+"offexchtradevolumeeex":17520,
+"onexchtradevolumeeex":35040,
+"tradedatetimegmt":"10/22/2018 12:00:00 PM"
+},
+{
+"close":56.45,
+"offexchtradevolumeeex":157680,
+"onexchtradevolumeeex":324120,
+"tradedatetimegmt":"10/23/2018 12:00:00 PM"
+},
+{
+"close":56.83,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":131400,
+"tradedatetimegmt":"10/24/2018 12:00:00 PM"
+},
+{
+"close":56.47,
+"offexchtradevolumeeex":70080,
+"onexchtradevolumeeex":131400,
+"tradedatetimegmt":"10/25/2018 12:00:00 PM"
+},
+{
+"close":55.86,
+"offexchtradevolumeeex":43800,
+"onexchtradevolumeeex":70080,
+"tradedatetimegmt":"10/26/2018 12:00:00 PM"
+},
+{
+"close":54.75,
+"offexchtradevolumeeex":105120,
+"onexchtradevolumeeex":183960,
+"tradedatetimegmt":"10/29/2018 12:00:00 PM"
+},
+{
+"close":53.69,
+"offexchtradevolumeeex":61320,
+"onexchtradevolumeeex":78840,
+"tradedatetimegmt":"10/30/2018 12:00:00 PM"
+},
+{
+"close":53.67,
+"offexchtradevolumeeex":122640,
+"onexchtradevolumeeex":262800,
+"tradedatetimegmt":"10/31/2018 12:00:00 PM"
+},
+{
+"close":53.12,
+"offexchtradevolumeeex":289080,
+"onexchtradevolumeeex":113880,
+"tradedatetimegmt":"11/1/2018 12:00:00 PM"
+},
+{
+"close":53.85,
+"offexchtradevolumeeex":175200,
+"onexchtradevolumeeex":473040,
+"tradedatetimegmt":"11/2/2018 12:00:00 PM"
+},
+{
+"close":53.64,
+"offexchtradevolumeeex":8760,
+"onexchtradevolumeeex":219000,
+"tradedatetimegmt":"11/5/2018 12:00:00 PM"
+},
+{
+"close":53.7,
+"offexchtradevolumeeex":61320,
+"onexchtradevolumeeex":210240,
+"tradedatetimegmt":"11/6/2018 12:00:00 PM"
+},
+{
+"close":55.14,
+"offexchtradevolumeeex":183960,
+"onexchtradevolumeeex":332880,
+"tradedatetimegmt":"11/7/2018 12:00:00 PM"
+},
+{
+"close":56.07,
+"offexchtradevolumeeex":166440,
+"onexchtradevolumeeex":359160,
+"tradedatetimegmt":"11/8/2018 12:00:00 PM"
+},
+{
+"close":55.75,
+"offexchtradevolumeeex":43800,
+"onexchtradevolumeeex":140160,
+"tradedatetimegmt":"11/9/2018 12:00:00 PM"
+},
+{
+"close":58.25,
+"offexchtradevolumeeex":481800,
+"onexchtradevolumeeex":289080,
+"tradedatetimegmt":"11/12/2018 12:00:00 PM"
+},
+{
+"close":58.36,
+"offexchtradevolumeeex":490560,
+"onexchtradevolumeeex":148920,
+"tradedatetimegmt":"11/13/2018 12:00:00 PM"
+},
+{
+"close":57.73,
+"offexchtradevolumeeex":324120,
+"onexchtradevolumeeex":52560,
+"tradedatetimegmt":"11/14/2018 12:00:00 PM"
+},
+{
+"close":57.97,
+"offexchtradevolumeeex":534360,
+"onexchtradevolumeeex":297840,
+"tradedatetimegmt":"11/15/2018 12:00:00 PM"
+},
+{
+"close":57.78,
+"offexchtradevolumeeex":70080,
+"onexchtradevolumeeex":254040,
+"tradedatetimegmt":"11/16/2018 12:00:00 PM"
+},
+{
+"close":55.4,
+"offexchtradevolumeeex":131400,
+"onexchtradevolumeeex":140160,
+"tradedatetimegmt":"11/19/2018 12:00:00 PM"
+},
+{
+"close":56.07,
+"offexchtradevolumeeex":245280,
+"onexchtradevolumeeex":245280,
+"tradedatetimegmt":"11/20/2018 12:00:00 PM"
+},
+{
+"close":56.9,
+"offexchtradevolumeeex":105120,
+"onexchtradevolumeeex":192720,
+"tradedatetimegmt":"11/21/2018 12:00:00 PM"
+},
+{
+"close":57.28,
+"offexchtradevolumeeex":280320,
+"onexchtradevolumeeex":315360,
+"tradedatetimegmt":"11/22/2018 12:00:00 PM"
+},
+{
+"close":57.42,
+"offexchtradevolumeeex":35040,
+"onexchtradevolumeeex":43800,
+"tradedatetimegmt":"11/23/2018 12:00:00 PM"
+},
+{
+"close":56.11,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":70080,
+"tradedatetimegmt":"11/26/2018 12:00:00 PM"
+},
+{
+"close":57.26,
+"offexchtradevolumeeex":148920,
+"onexchtradevolumeeex":87600,
+"tradedatetimegmt":"11/27/2018 12:00:00 PM"
+},
+{
+"close":56.77,
+"offexchtradevolumeeex":0,
+"onexchtradevolumeeex":17520,
+"tradedatetimegmt":"11/28/2018 12:00:00 PM"
+},
+{
+"close":57.22,
+"offexchtradevolumeeex":17520,
+"onexchtradevolumeeex":254040,
+"tradedatetimegmt":"11/29/2018 12:00:00 PM"
+},
+{
+"close":57.67,
+"offexchtradevolumeeex":586920,
+"onexchtradevolumeeex":464280,
+"tradedatetimegmt":"11/30/2018 12:00:00 PM"
+},
+{
+"close":58.44,
+"offexchtradevolumeeex":657000,
+"onexchtradevolumeeex":499320,
+"tradedatetimegmt":"12/3/2018 12:00:00 PM"
+},
+{
+"close":57.89,
+"offexchtradevolumeeex":131400,
+"onexchtradevolumeeex":630720,
+"tradedatetimegmt":"12/4/2018 12:00:00 PM"
+},
+{
+"close":57.26,
+"offexchtradevolumeeex":280320,
+"onexchtradevolumeeex":210240,
+"tradedatetimegmt":"12/5/2018 12:00:00 PM"
+},
+{
+"close":57.05,
+"offexchtradevolumeeex":341640,
+"onexchtradevolumeeex":534360,
+"tradedatetimegmt":"12/6/2018 12:00:00 PM"
+},
+{
+"close":57.36,
+"offexchtradevolumeeex":166440,
+"onexchtradevolumeeex":140160,
+"tradedatetimegmt":"12/7/2018 12:00:00 PM"
+},
+{
+"close":57.88,
+"offexchtradevolumeeex":805920,
+"onexchtradevolumeeex":157680,
+"tradedatetimegmt":"12/10/2018 12:00:00 PM"
+},
+{
+"close":58.11,
+"offexchtradevolumeeex":551880,
+"onexchtradevolumeeex":455520,
+"tradedatetimegmt":"12/11/2018 12:00:00 PM"
+},
+{
+"close":58.82,
+"offexchtradevolumeeex":648240,
+"onexchtradevolumeeex":332880,
+"tradedatetimegmt":"12/12/2018 12:00:00 PM"
+},
+{
+"close":60.1,
+"offexchtradevolumeeex":473040,
+"onexchtradevolumeeex":814680,
+"tradedatetimegmt":"12/13/2018 12:00:00 PM"
+},
+{
+"close":61.34,
+"offexchtradevolumeeex":394200,
+"onexchtradevolumeeex":332880,
+"tradedatetimegmt":"12/14/2018 12:00:00 PM"
+},
+{
+"close":62.01,
+"offexchtradevolumeeex":324120,
+"onexchtradevolumeeex":438000,
+"tradedatetimegmt":"12/17/2018 12:00:00 PM"
+},
+{
+"close":61.33,
+"offexchtradevolumeeex":438000,
+"onexchtradevolumeeex":192720,
+"tradedatetimegmt":"12/18/2018 12:00:00 PM"
+},
+{
+"close":61.87,
+"offexchtradevolumeeex":140160,
+"onexchtradevolumeeex":166440,
+"tradedatetimegmt":"12/19/2018 12:00:00 PM"
+},
+{
+"close":61.02,
+"offexchtradevolumeeex":245280,
+"onexchtradevolumeeex":560640,
+"tradedatetimegmt":"12/20/2018 12:00:00 PM"
+},
+{
+"close":61.55,
+"offexchtradevolumeeex":70080,
+"onexchtradevolumeeex":297840,
+"tradedatetimegmt":"12/21/2018 12:00:00 PM"
+},
+{
+"close":61.55,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"12/24/2018 12:00:00 PM"
+},
+{
+"close":59.96,
+"offexchtradevolumeeex":null,
+"onexchtradevolumeeex":null,
+"tradedatetimegmt":"12/27/2018 12:00:00 PM"
+}
+]}}
