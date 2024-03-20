@@ -8,8 +8,13 @@ import { LineChart, Line, CartesianGrid, XAxis, YAxis } from 'recharts';
 
 function App() {
   const [items, setItems] = useState(data.results.items);
+  const [newItem, setNewItem] = useState({
+    close: 0,
+    offexchtradevolumeeex: 0,
+    onexchtradevolumeeex: 0,
+    tradedatetimegmt: new Date(),
+  });
 
-  //convert the "tradedatetimegmt" to a date object
   /* items.forEach((item) => {
     item.tradedatetimegmt = new Date(item.tradedatetimegmt);
   }); */
@@ -17,8 +22,66 @@ function App() {
   return (
     <>
       <div>
-        //create a line chart with the data from the items array with the"close"
-        as the y-axis and converted "tradedatetimegmt" as the x-axis
+        //Create a form to add a new item
+        <form>
+          <label>
+            Close:
+            <input
+              type="number"
+              value={newItem.close}
+              onChange={(event) =>
+                setNewItem({ ...newItem, close: event.target.value })
+              }
+            />
+          </label>
+          <label>
+            Off Exchange Trade Volume:
+            <input
+              type="number"
+              value={newItem.offexchtradevolumeeex}
+              onChange={(event) =>
+                setNewItem({
+                  ...newItem,
+                  offexchtradevolumeeex: event.target.value,
+                })
+              }
+            />
+          </label>
+          <label>
+            On Exchange Trade Volume:
+            <input
+              type="number"
+              value={newItem.onexchtradevolumeeex}
+              onChange={(event) =>
+                setNewItem({
+                  ...newItem,
+                  onexchtradevolumeeex: event.target.value,
+                })
+              }
+            />
+          </label>
+          <label>
+            Trade Date Time GMT:
+            <input
+              type="datetime-local"
+              value={newItem.tradedatetimegmt}
+              onChange={(event) =>
+                setNewItem({ ...newItem, tradedatetimegmt: event.target.value })
+              }
+            />
+          </label>
+          <button
+            type="button"
+            onClick={() => {
+              setItems([...items, newItem]);
+              console.log(items);
+            }}
+          >
+            Add
+          </button>
+        </form>
+      </div>
+      <div>
         <LineChart
           width={800}
           height={400}
@@ -35,9 +98,6 @@ function App() {
         </LineChart>
       </div>
       <div>
-        //for each element in the items array, create a line in a table with the
-        item's "close", "offexchtradevolumeeex" ,"onexchtradevolumeeex",
-        "tradedatetimegmt"
         <table>
           <thead>
             <tr>
