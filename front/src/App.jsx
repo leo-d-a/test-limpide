@@ -59,12 +59,13 @@ function App() {
   return (
     <>
       <div>
-        <form>
+        <form className={'inputForm'}>
           <label>
             Close:
             <input
               type="number"
               value={newItem.close}
+              name="close"
               onChange={(event) =>
                 setNewItem({ ...newItem, close: event.target.value })
               }
@@ -165,6 +166,7 @@ function App() {
           <tbody>
             {items.map((item, index) => (
               <tr key={index}>
+                {' '}
                 <td>{item.close}</td>
                 <td>{item.offexchtradevolumeeex}</td>
                 <td>{item.onexchtradevolumeeex}</td>
